@@ -31,7 +31,9 @@ finance/
 ├── finance.db
 ├── requirements.txt
 ├── static/
-│   └── styles.css
+│
+
+└── styles.css
 └── templates /
     ├── apology.html
     ├── buy.html
