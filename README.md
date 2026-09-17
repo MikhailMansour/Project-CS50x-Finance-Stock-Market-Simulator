@@ -47,4 +47,23 @@ finance/
     ├── quoted.html
     ├── register.html
     └── sell.html
+## Register ##
+<img width="1920" height="929" alt="1" src="https://github.com/user-attachments/assets/757b331a-c8d1-4042-9e5c-a04e5789d9db" />
+## Registered ##
+<img width="1920" height="919" alt="2" src="https://github.com/user-attachments/assets/54a9bb6a-4535-461f-9eba-8f098dd932e8" />
+## Quote ##
+<img width="1920" height="926" alt="3" src="https://github.com/user-attachments/assets/422faa40-ba4f-4172-8458-83658b1ebda7" />
+## Buyer ##
+<img width="1920" height="921" alt="4" src="https://github.com/user-attachments/assets/c40e3891-286c-4311-9dd8-6269aab2133e" />
+## Seller ##
+<img width="1920" height="924" alt="5" src="https://github.com/user-attachments/assets/df292560-7cb8-43b7-a1c9-fd7cb1d27de7" />
+## History ##
+<img width="1920" height="915" alt="6" src="https://github.com/user-attachments/assets/fc290fa2-7ba4-4b70-b865-64ebd4dbdad3" />
+
+
+
+
+
+
+
 
