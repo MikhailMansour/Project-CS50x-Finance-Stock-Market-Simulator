@@ -23,9 +23,8 @@ A Flask-based stock trading web application that allows users to quote, buy, sel
 - 🔐 Werkzeug Security
 - 📈 Stock Lookup API
 
-- ## 📂 Project Structure
+ ## 📂 Project Structure ##
 
-## text ##
 finance/
 ├── app.py
 ├── helpers.py
@@ -33,7 +32,7 @@ finance/
 ├── requirements.txt
 ├── static/
 │   └── styles.css
-└── templates/
+└── templates /
     ├── apology.html
     ├── buy.html
     ├── history.html
