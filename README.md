@@ -48,7 +48,7 @@ finance/
     ├── register.html
     └── sell.html
 ## Register ##
-<img width="1920" height="929" alt="1" src="https://github.com/user-attachments/assets/e23ef9cb-a39a-4868-9fe6-23104018a2e6" />
+<img width="1920" height="929" alt="1" src="https://github.com/user-attachments/assets/b58b5d3d-1b18-44a1-ad81-868f6fb76278" />
 ## Registered ##
 <img width="1920" height="919" alt="2" src="https://github.com/user-attachments/assets/54a9bb6a-4535-461f-9eba-8f098dd932e8" />
 ## Quote ##
