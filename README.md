@@ -25,3 +25,26 @@ A Flask-based stock trading web application that allows users to quote, buy, sel
 - 📝 Jinja2
 - 🔐 Werkzeug Security
 - 📈 Stock Lookup API
+
+- ## 📂 Project Structure
+
+```text
+finance/
+├── app.py
+├── helpers.py
+├── finance.db
+├── requirements.txt
+├── static/
+│   └── styles.css
+└── templates/
+    ├── apology.html
+    ├── buy.html
+    ├── history.html
+    ├── index.html
+    ├── layout.html
+    ├── login.html
+    ├── quote.html
+    ├── quoted.html
+    ├── register.html
+    └── sell.html
+
